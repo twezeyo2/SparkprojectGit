@@ -8,7 +8,7 @@ object obj {
     
     println("====date===")
     
-    println("new123d")
+    println("enbwewrewr")
     
     
   }
